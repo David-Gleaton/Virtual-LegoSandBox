@@ -1,0 +1,23 @@
+Controls:
+
+NOTE: This demo is highly recommended to be played with an actual headset, if possible.
+Due to certain aspects of Tilia's spatial simulator, features like player scaling CANNOT work in an efficient fashion.
+
+
+SPATIAL SIMULATOR:
+- Press Mouse 1 to interact, which includes picking up objects (normal or distance grab) or selecting a lego/canvas option.
+- Press Space to activate straight pointer. This is for selecting legos to open up the canvas that
+can change their properties.
+- Press Mouse 2 to enable the teleporter, this works just like the one out of the box from Tilia.
+- Press Middle Mouse to enable player scaling. While holding, move right hand up/down to scale your size up/down respectively
+
+UNITY XR:
+- Press Right Trigger to interact, which includes picking up objects (normal or distance grab) or selecting a lego/canvas option.
+- Press A (bottom button right controller) to activate straight pointer. This is for selecting legos to open up the canvas that
+can change their properties.
+- Push VERTICALLY UP on the RIGHT JOYSTICK to enable the teleporter, this works just like the one out of the box from Tilia.
+- Press B (top button right controller) to enable player scaling. While holding, move right hand up/down to scale your size up/down respectively
+
+BOTH:
+- Pick up a lego piece and touch it to the top of any other piece. An indicator will appear that shows where the lego
+will get placed. Let go of the interaction button to snap the lego in place where the indicator shows.
